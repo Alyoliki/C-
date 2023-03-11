@@ -1,0 +1,15 @@
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\bin\Debug\net7.0\EX3.exe
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\bin\Debug\net7.0\EX3.deps.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\bin\Debug\net7.0\EX3.runtimeconfig.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\bin\Debug\net7.0\EX3.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\bin\Debug\net7.0\EX3.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\obj\Debug\net7.0\EX3.csproj.AssemblyReference.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\obj\Debug\net7.0\EX3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\obj\Debug\net7.0\EX3.AssemblyInfoInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\obj\Debug\net7.0\EX3.AssemblyInfo.cs
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\obj\Debug\net7.0\EX3.csproj.CoreCompileInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\obj\Debug\net7.0\EX3.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\obj\Debug\net7.0\refint\EX3.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\obj\Debug\net7.0\EX3.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\obj\Debug\net7.0\EX3.genruntimeconfig.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX3\obj\Debug\net7.0\ref\EX3.dll
