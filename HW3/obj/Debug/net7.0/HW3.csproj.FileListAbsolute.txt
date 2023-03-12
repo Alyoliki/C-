@@ -1,0 +1,15 @@
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\obj\Debug\net7.0\HW3.csproj.AssemblyReference.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\obj\Debug\net7.0\HW3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\obj\Debug\net7.0\HW3.AssemblyInfoInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\obj\Debug\net7.0\HW3.AssemblyInfo.cs
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\obj\Debug\net7.0\HW3.csproj.CoreCompileInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\bin\Debug\net7.0\HW3.exe
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\bin\Debug\net7.0\HW3.deps.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\bin\Debug\net7.0\HW3.runtimeconfig.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\bin\Debug\net7.0\HW3.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\bin\Debug\net7.0\HW3.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\obj\Debug\net7.0\HW3.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\obj\Debug\net7.0\refint\HW3.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\obj\Debug\net7.0\HW3.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\obj\Debug\net7.0\HW3.genruntimeconfig.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW3\obj\Debug\net7.0\ref\HW3.dll
