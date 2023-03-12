@@ -1,0 +1,15 @@
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\bin\Debug\net7.0\HW4.exe
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\bin\Debug\net7.0\HW4.deps.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\bin\Debug\net7.0\HW4.runtimeconfig.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\bin\Debug\net7.0\HW4.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\bin\Debug\net7.0\HW4.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\obj\Debug\net7.0\HW4.csproj.AssemblyReference.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\obj\Debug\net7.0\HW4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\obj\Debug\net7.0\HW4.AssemblyInfoInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\obj\Debug\net7.0\HW4.AssemblyInfo.cs
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\obj\Debug\net7.0\HW4.csproj.CoreCompileInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\obj\Debug\net7.0\HW4.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\obj\Debug\net7.0\refint\HW4.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\obj\Debug\net7.0\HW4.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\obj\Debug\net7.0\HW4.genruntimeconfig.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW4\obj\Debug\net7.0\ref\HW4.dll
