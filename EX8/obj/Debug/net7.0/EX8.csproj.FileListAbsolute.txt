@@ -1,0 +1,15 @@
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\obj\Debug\net7.0\EX8.csproj.AssemblyReference.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\obj\Debug\net7.0\EX8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\obj\Debug\net7.0\EX8.AssemblyInfoInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\obj\Debug\net7.0\EX8.AssemblyInfo.cs
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\obj\Debug\net7.0\EX8.csproj.CoreCompileInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\bin\Debug\net7.0\EX8.exe
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\bin\Debug\net7.0\EX8.deps.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\bin\Debug\net7.0\EX8.runtimeconfig.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\bin\Debug\net7.0\EX8.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\bin\Debug\net7.0\EX8.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\obj\Debug\net7.0\EX8.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\obj\Debug\net7.0\refint\EX8.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\obj\Debug\net7.0\EX8.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\obj\Debug\net7.0\EX8.genruntimeconfig.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\EX8\obj\Debug\net7.0\ref\EX8.dll
