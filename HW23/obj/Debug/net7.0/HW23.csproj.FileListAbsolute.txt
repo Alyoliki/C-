@@ -1,0 +1,15 @@
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\obj\Debug\net7.0\HW23.csproj.AssemblyReference.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\obj\Debug\net7.0\HW23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\obj\Debug\net7.0\HW23.AssemblyInfoInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\obj\Debug\net7.0\HW23.AssemblyInfo.cs
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\obj\Debug\net7.0\HW23.csproj.CoreCompileInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\bin\Debug\net7.0\HW23.exe
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\bin\Debug\net7.0\HW23.deps.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\bin\Debug\net7.0\HW23.runtimeconfig.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\bin\Debug\net7.0\HW23.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\bin\Debug\net7.0\HW23.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\obj\Debug\net7.0\HW23.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\obj\Debug\net7.0\refint\HW23.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\obj\Debug\net7.0\HW23.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\obj\Debug\net7.0\HW23.genruntimeconfig.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW23\obj\Debug\net7.0\ref\HW23.dll
