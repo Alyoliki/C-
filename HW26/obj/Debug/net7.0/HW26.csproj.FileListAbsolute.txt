@@ -1,0 +1,15 @@
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\bin\Debug\net7.0\HW26.exe
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\bin\Debug\net7.0\HW26.deps.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\bin\Debug\net7.0\HW26.runtimeconfig.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\bin\Debug\net7.0\HW26.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\bin\Debug\net7.0\HW26.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\obj\Debug\net7.0\HW26.csproj.AssemblyReference.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\obj\Debug\net7.0\HW26.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\obj\Debug\net7.0\HW26.AssemblyInfoInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\obj\Debug\net7.0\HW26.AssemblyInfo.cs
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\obj\Debug\net7.0\HW26.csproj.CoreCompileInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\obj\Debug\net7.0\HW26.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\obj\Debug\net7.0\refint\HW26.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\obj\Debug\net7.0\HW26.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\obj\Debug\net7.0\HW26.genruntimeconfig.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW26\obj\Debug\net7.0\ref\HW26.dll
