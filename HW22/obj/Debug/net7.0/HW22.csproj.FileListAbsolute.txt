@@ -1,0 +1,15 @@
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\obj\Debug\net7.0\HW22.csproj.AssemblyReference.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\obj\Debug\net7.0\HW22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\obj\Debug\net7.0\HW22.AssemblyInfoInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\obj\Debug\net7.0\HW22.AssemblyInfo.cs
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\obj\Debug\net7.0\HW22.csproj.CoreCompileInputs.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\bin\Debug\net7.0\HW22.exe
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\bin\Debug\net7.0\HW22.deps.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\bin\Debug\net7.0\HW22.runtimeconfig.json
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\bin\Debug\net7.0\HW22.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\bin\Debug\net7.0\HW22.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\obj\Debug\net7.0\HW22.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\obj\Debug\net7.0\refint\HW22.dll
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\obj\Debug\net7.0\HW22.pdb
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\obj\Debug\net7.0\HW22.genruntimeconfig.cache
+D:\Alyona\study\C#\C#\лекция 1\Examples\HW22\obj\Debug\net7.0\ref\HW22.dll
